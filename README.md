@@ -18,6 +18,30 @@ The project was developed using \*\*Excel, Tableau, Power BI, and DAX\*\*, with 
 
 
 
+\## 📊 Dashboard Preview
+
+### Tableau — Executive Overview
+
+![Tableau Executive Overview](tableau/01_bike_sales_overview.png)
+
+### Tableau — Product & Customer Analysis
+
+![Product & Customer Analysis](tableau/02_product_customer_analysis.png)
+
+### Tableau — Geographic & Sales Performance
+
+![Geographic & Sales Performance](tableau/03_geographic_sales_performance.png)
+
+### Power BI — Executive Overview
+
+![Power BI Executive Overview](powerbi/01_executive_overview.png)
+
+### Power BI — Product & Profitability Analysis
+
+![Power BI Product & Profitability Analysis](powerbi/02_product_profitability_analysis.png)
+
+
+
 \## 🎯 Business Objective
 
 
